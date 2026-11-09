@@ -1,21 +1,22 @@
-# Spirit Clash — Anime Arena
+# Spirit Clash — Arena Brawler
 
-A small, original anime-inspired arena fighter that runs right in your web browser. No downloads, accounts, or external game assets are required.
+A browser-based anime-inspired arena fighter. Open `index.html` in a browser or publish the repository with GitHub Pages; no download or external assets are needed.
 
-## Play
+## Controls
 
-Open `index.html` in a browser, or publish the repository with GitHub Pages to play it as a website.
-
-- **Move:** WASD or arrow keys
-- **Quick hit:** J
-- **Power hit:** K
-- **Spirit blast:** L
+- **Choose a character:** Select Flare, Volt, Titan, or Shade on the start screen.
+- **Move:** WASD
+- **M1 combo:** Left mouse click or J (click repeatedly to chain hits)
+- **Block:** Hold right mouse button or Shift
 - **Dash:** Space
-- **Ultimate:** U (fill your spirit meter by fighting)
+- **Special:** E
+- **Ultimate:** R (build the spirit meter by fighting)
+- **Lock on/off:** Q
+- **Camera:** Drag the mouse on the game to look around; scroll to zoom. The camera follows your fighter. When lock-on is active, it turns toward your rival; dragging the camera switches to free look.
 - **Pause:** P or Escape
 
-Touch controls appear on smaller screens. Choose Flare, Volt, or Titan before entering the arena; each fighter has different speed, stamina, and damage.
+On touch screens, use the on-screen movement and action buttons.
 
 ## Publish with GitHub Pages
 
-In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save. GitHub Pages will publish the game at the URL shown in that settings page.
+Open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save. GitHub will show the published website URL in that settings page.
