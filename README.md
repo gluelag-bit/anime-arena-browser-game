@@ -1,21 +1,21 @@
-# Spirit Clash — Arena Brawler
+# Spirit Clash 3D — Arena Brawler
 
-A browser-based anime-inspired arena fighter. Open `index.html` in a browser or publish the repository with GitHub Pages; no download or external assets are needed.
+A no-download, browser-based 3D anime-inspired arena fighter. The game uses Three.js from a CDN, so an internet connection is needed while playing. Open `index.html` in a browser or publish with GitHub Pages.
 
 ## Controls
 
 - **Choose a character:** Select Flare, Volt, Titan, or Shade on the start screen.
 - **Move:** WASD
-- **M1 combo:** Left mouse click or J (click repeatedly to chain hits)
+- **M1 combo:** Left mouse click or J; click repeatedly to chain hits
 - **Block:** Hold right mouse button or Shift
 - **Dash:** Space
-- **Special:** E
+- **Special projectile:** E
 - **Ultimate:** R (build the spirit meter by fighting)
-- **Lock on/off:** Q
-- **Camera:** Drag the mouse on the game to look around; scroll to zoom. The camera follows your fighter. When lock-on is active, it turns toward your rival; dragging the camera switches to free look.
+- **Lock-on:** Q
+- **Camera:** Drag mouse to orbit; scroll wheel to zoom. The camera follows your fighter.
 - **Pause:** P or Escape
 
-On touch screens, use the on-screen movement and action buttons.
+Touch screens have on-screen movement and action buttons.
 
 ## Publish with GitHub Pages
 
